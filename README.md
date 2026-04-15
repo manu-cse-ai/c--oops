@@ -12,17 +12,17 @@ My C++ college code | B.Tech CSE-AI Poornima College
 ### **C++ OOPs Topics Covered:** 
 - Class and Object
 - Functions Outside Class using `::`
-- Constructor - Coming Next
+- Constructor - used to add 2 numbers wih cin
 - Inheritance - Coming Soon
 
 ### **Files in Repo:**
 1. `Car.cpp` - Basic Class Object example
 2. `Student.cpp` - Student class with data members  
 3. `outsideCar.cpp` - Function defined outside class
-4. `Constructor.cpp` - Next Upload
+4. `Constructor.cpp` - Add 2 numbers using constructor with cin
 
 ### **Goal:**
 Building strong programming foundation before August 2026. From C basics to C++ OOPs 💪
 
-**Total Commits:** 9  
+**Total Commits:** 10+  
 **Journey:** C → C++ | 2 Months Consistency
