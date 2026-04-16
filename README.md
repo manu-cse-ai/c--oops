@@ -25,5 +25,5 @@ My C++ college code | B.Tech CSE-AI Poornima College
 ### **Goal:**
 Building strong programming foundation before August 2026. From C basics to C++ OOPs 💪
 
-**Total Commits:** 10+  
+**Total Commits:** 14+  
 **Journey:** C → C++ |16 march 2026 se  | 1+ Month Consistency
