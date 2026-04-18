@@ -14,6 +14,7 @@ My C++ college code | B.Tech CSE-AI Poornima College
 - Functions Outside Class using `::`
 - Constructor - used to add 2 numbers wih cin
 - Inheritance - Single Inheritance With Student & marks
+- Inheritance - Multiple Inheritance with Employee + Salary -> Allowance
 
 ### **Files in Repo:**
 1. `Car.cpp` - Basic Class Object example
@@ -22,9 +23,10 @@ My C++ college code | B.Tech CSE-AI Poornima College
 4. `Constructor.cpp` - Add 2 numbers using constructor with cin
 5. 'BankAccount.cpp' - Constructor Overloading with Default,2-param and 3-param constructors
 6. 'I.marks.cpp' - Single Inheritance: Student -> Marks Calculation
+7. ' Multiple Inheritance.cpp' - Multiple Inheritance : Employee + Salary -> Allowance
 
 ### **Goal:**
 Building strong programming foundation before August 2026. From C basics to C++ OOPs 💪
 
-**Total Commits:** 16+  
-**Journey:** C → C++ |16 march 2026 se  | 1+ Month Consistency | 5 day Streak
+**Total Commits:** 17+  
+**Journey:** C → C++ |16 march 2026 se  | 1+ Month Consistency | 6 day Streak
