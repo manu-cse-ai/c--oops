@@ -12,7 +12,7 @@ My C++ college code | B.Tech CSE-AI Poornima College
 ### **C++ OOPs Topics Covered:** 
 - Class and Object
 - Functions Outside Class using `::`
-- Constructor - used to add 2 numbers wih cin
+- Constructor - used to add 2 numbers with cin
 - Inheritance - Single Inheritance With Student & marks
 - Inheritance - Multiple Inheritance with Employee + Salary -> Allowance
 - Inheritance - Multilevel Inheritance with Student -> Marks -> Result
@@ -24,12 +24,13 @@ My C++ college code | B.Tech CSE-AI Poornima College
 3. `outsideCar.cpp` - Function defined outside class
 4. `Constructor.cpp` - Add 2 numbers using constructor with cin
 5. 'BankAccount.cpp' - Constructor Overloading with Default,2-param and 3-param constructors
-6. 'I.marks.cpp' - Single Inheritance: Student -> Marks Calculation
+6. 'marks.cpp' - Single Inheritance: Student -> Marks Calculation
 7. ' Multiple Inheritance.cpp' - Multiple Inheritance : Employee + Salary -> Allowance
 8.  ' Multilevel Inheritance class Student.cpp'- Multilevel Inheritance : Student -> Marks -> Result
+9.   ' Multilevel Inheritance class Employee.cpp'- Multilevel Inheritance : Person -> Employee -> Manager 
 
 ### **Goal:**
 Building strong programming foundation before August 2026. From C basics to C++ OOPs 💪
 
 **Total Commits:** 20+  
-**Journey:** C → C++ |16 march 2026 se  | 1+ Month Consistency | 7 day Streak
+**Journey:** C → C++ |16 march 2026 se  | 1+ Month Consistency | 8 day Streak
