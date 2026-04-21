@@ -16,6 +16,7 @@ My C++ college code | B.Tech CSE-AI Poornima College
 - Inheritance - Single Inheritance With Student & marks
 - Inheritance - Multiple Inheritance with Employee + Salary -> Allowance
 - Inheritance - Multilevel Inheritance with Student -> Marks -> Result
+- Inheritance - Hybrid Inheritance with Student + Sports -> Result
 
 
 ### **Files in Repo:**
@@ -27,10 +28,11 @@ My C++ college code | B.Tech CSE-AI Poornima College
 6. 'marks.cpp' - Single Inheritance: Student -> Marks Calculation
 7. ' Multiple Inheritance.cpp' - Multiple Inheritance : Employee + Salary -> Allowance
 8.  ' Multilevel Inheritance class Student.cpp'- Multilevel Inheritance : Student -> Marks -> Result
-9.   ' Multilevel Inheritance class Employee.cpp'- Multilevel Inheritance : Person -> Employee -> Manager 
+9.   ' Multilevel Inheritance class Employee.cpp'- Multilevel Inheritance : Person -> Employee -> Manager
+10.   'Hybrid Inheritance.cpp' - Multiple + Multilevel combo : Result class
 
 ### **Goal:**
 Building strong programming foundation before August 2026. From C basics to C++ OOPs 💪
 
 **Total Commits:** 20+  
-**Journey:** C → C++ |16 march 2026 se  | 1+ Month Consistency | 8 day Streak
+**Journey:** C → C++ |16 march 2026 se  | 1+ Month Consistency | 9 day Streak
