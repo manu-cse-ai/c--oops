@@ -18,6 +18,7 @@ My C++ college code | B.Tech CSE-AI Poornima College
 - Inheritance - Multilevel Inheritance with Student -> Marks -> Result
 - Inheritance - Hybrid Inheritance with Student + Sports -> Result
 - Inheritance - Hybrid Inheritance with Person -> Student + Teacher -> School
+- Polymorphism - Virtual Functions & Runtime Polynorphism
 
 
 ### **Files in Repo:**
@@ -32,9 +33,10 @@ My C++ college code | B.Tech CSE-AI Poornima College
 9. ' Multilevel Inheritance class Employee.cpp'- Multilevel Inheritance : Person -> Employee -> Manager
 10. 'Hybrid Inheritance.cpp' - Multiple + Multilevel combo : Result class
 11. 'SchoolHybrid.cpp' - Diamond Problem Example : Person -> Student + Teacher -> School
+12. 'Virtual Animal.cpp' - Virtual Function : Animal -> Dog + Cat Runtime Polymorphism
 
 ### **Goal:**
 Building strong programming foundation before August 2026. From C basics to C++ OOPs 💪
 
-**Total Commits:** 25+  
-**Journey:** C → C++ |16 march 2026 se  | 1+ Month Consistency | 10 day Streak
+**Total Commits:** 30+  
+**Journey:** C → C++ |16 march 2026 se  | 1+ Month Consistency | 11 day Streak
